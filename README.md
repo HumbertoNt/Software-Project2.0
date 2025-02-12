@@ -18,3 +18,9 @@ O que terá na classe alunos?
 Quais funcionalidades teram dentro da classe?
 * Editar faltas.
 * Apresentar caracteristicas.
+
+Classe teste:
+* Nome: "joao"
+* Senha: "joaoPassword"
+* Faltas: 0,
+* Matricula: "0001"
