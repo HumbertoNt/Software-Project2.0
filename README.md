@@ -5,9 +5,9 @@
 Principal classe do programa. 
 
 Quais as 3 funções irei implementar nessa aula?
-* Student Enrollment:Inscrever um aluno.
-* Attendance Tracking:Frequencia aluno.
-* Parent Portal:Exibir dados aluno.
+* Student Enrollment: Inscrever um aluno.
+* Attendance Tracking: Frequencia aluno.
+* Parent Portal: Exibir dados aluno.
 
 O que terá na classe alunos?
 * Nome.
