@@ -2,4 +2,19 @@
 
 ## Classes que irei criar.
 ### Classe alunos
-Principal classe do programa.
+Principal classe do programa. 
+
+Quais as 3 funções irei implementar nessa aula?
+* Student Enrollment:Inscrever um aluno.
+* Attendance Tracking:Frequencia aluno.
+* Parent Portal:Exibir dados aluno.
+
+O que terá na classe alunos?
+* Nome.
+* Matricula.
+* Faltas.
+* Senha do aluno.
+
+Quais funcionalidades teram dentro da classe?
+* Editar faltas.
+* Apresentar caracteristicas.
