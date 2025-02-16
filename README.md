@@ -24,3 +24,6 @@ Classe teste:
 * Senha: "joaoPassword"
 * Faltas: 0,
 * Matricula: "0001"
+
+## Observações:
+Acabei por deixar de fora as funcionalidades *Course Material Distribution*, *School Bus Tracking* e *Extra-Curricular Activities Management*, pelas duas primeiras depederem de meio externos e a segunda não conseguir encaixar no código. Tinha a ideia de usar classe na funcionalidade *Gradebook Management*, mas não consegui o resultado que desejava e optei por manter igual ao código anterior.
