@@ -276,7 +276,7 @@ while True:
 
             index += 1
         if not found:
-            print('Student not found.')
+            print('Tutor not found.')
 
 
     elif case == '2':
